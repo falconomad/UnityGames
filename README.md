@@ -8,8 +8,6 @@ This repo contains source files of 2 android games . Both of these are available
 
 Scripts for both of these are available In the Scripts folder.
 
-Assets used for the projects are placed under asset folder.
-
 The final build apks are also available (Punk Mario.apk,Flappy Crow.apk)
 
 
