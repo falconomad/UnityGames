@@ -15,7 +15,7 @@ Both javascript and c# are used for scripting.
 
 2.flappy crow 
 
- Tap game similiar to flappy bird. 6 different sections are avaialble. These sections will be called randomly.
+ This is a 3d tap game. 6 different sections are avaialble. These sections will be called randomly( never ending manner).
 Player need to control a crow by tapping left side of the screen and drop egg by tapping on right side. Each successful drop through the basket gives a point and one more egg. Player need to keep the egg count zero. Collision with baskets results in death. Speed of the crow will be increasing gradually.
 
 Both javascript and c# are used for scripting.
